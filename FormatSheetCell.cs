@@ -1,6 +1,6 @@
 using System;
 
-namespace SheetsAccess
+namespace GoogleSheetsAccess
 {
     public static class FormatSheetCell
     {

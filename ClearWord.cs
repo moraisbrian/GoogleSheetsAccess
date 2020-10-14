@@ -1,4 +1,4 @@
-namespace SheetsAccess
+namespace GoogleSheetsAccess
 {
     public static class ClearWord
     {

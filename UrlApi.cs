@@ -1,4 +1,4 @@
-namespace SheetsAccess
+namespace GoogleSheetsAccess
 {
     public class UrlApi
     {

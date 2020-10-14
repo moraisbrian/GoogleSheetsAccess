@@ -4,7 +4,7 @@ using System.Net;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace SheetsAccess
+namespace GoogleSheetsAccess
 {
     public class WebService
     {
